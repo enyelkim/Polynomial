@@ -11,6 +11,6 @@ _It doesn't take much more than intellij or eclipse, junit, jdk._
 
 ## Licencia /License. 📄
 
-Este proyecto está bajo la Licencia (GNU PUBLIC LICENSE) - mira el archivo [LICENSE.md](LICENSE.md) para detalles.
+Este proyecto está bajo la Licencia (GNU PUBLIC LICENSE) - mira el archivo [LICENSE.md](LICENSE) para detalles.
 
-This project is licensed under the (GNU PUBLIC LICENSE) - see the file [LICENSE.md](LICENSE.md) for details.
+This project is licensed under the (GNU PUBLIC LICENSE) - see the file [LICENSE.md](LICENSE) for details.
